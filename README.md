@@ -1,3 +1,7 @@
+# What this project is
+
+It is just an express server that returns `true` or `false` depending on if the server of Factorio is running or not.
+
 # How to use it
 * You have to make sure you have Node.js installed
 * In the package.json set the name of the server
